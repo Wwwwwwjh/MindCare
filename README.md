@@ -5,6 +5,7 @@
   <img src="Cover.png" width="900" >
 </div>
 
+### Please refer to ReadMe_CN.md for **Chinese version** 
 ---
 ## 📝 Introduction
 #### &emsp;&emsp; MindCare is an intelligent diagnosis system specifically focused on the mental health of teenagers. It integrates virtual reality and cloud technology to establish a local-cloud collaborative architecture. The front end conducts psychological assessments and collects multi-modal data from users. The "Lingyun Zhimedu" multi-modal large model developed by the cloud analyzes the data and generates personalized diagnosis reports, assisting experts during the diagnosis process. It also takes into account scientificity and privacy protection, and is applicable in educational and medical scenarios.
@@ -44,6 +45,7 @@
   <br>
   <b style="font-size: 1.2em;">Personalized Preliminary Diagnosis Report</b>
 </p>
+
 ---
 
 ### 🏆 Awards & Achievements
@@ -76,8 +78,9 @@ MindCare has received the following honors during the development and competitio
 
 ### 💡 Our team
 <div align="center">
-  <img src="Team_photo.jpg" width="1000" alt="MindCare">
+  <img src="Team_photo.jpg" width="800" alt="MindCare">
 </div>
+
 
 
 

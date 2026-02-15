@@ -67,11 +67,11 @@ MindCare has received the following honors during the development and competitio
 
 ### 📅 Project Timeline
 - [x] **Sep 2025** — `MindCare v6.0` (Latest Release: Multi-modal Fusion)
-- [x] **July 2025** — `MindCare v5.0` (UE5 Scene Optimization)
-- [x] **May 2025** — `MindCare v4.0` (Edge-Cloud Architecture)
-- [x] **Apr 2025** — `MindCare v3.0` (Medical Encryption Mechanism)
-- [x] **Mar 2025** — `MindCare v2.0` (Prototype Validation)
-- [x] **Oct 2024** — `MindCare v1.0` (Initial Concept)
+- [x] **July 2025** — `MindCare v5.0` 
+- [x] **May 2025** — `MindCare v4.0` 
+- [x] **Apr 2025** — `MindCare v3.0` 
+- [x] **Mar 2025** — `MindCare v2.0` 
+- [x] **Oct 2024** — `MindCare v1.0` 
 
 
 ### 🚀 Code
@@ -84,6 +84,7 @@ MindCare has received the following honors during the development and competitio
 <div align="center">
   <img src="Team_photo.jpg" width="800" alt="MindCare">
 </div>
+
 
 
 
